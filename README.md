@@ -13,4 +13,4 @@ Dans le menu Personnaliser > Compétences > Bouton + > Créer une compétence > 
 Glisser le fichier zip
 
 ## Exemple d'utilisation
-/reqhfsql Optimise cette requête
+/reqhfsql Corrige cette requête
